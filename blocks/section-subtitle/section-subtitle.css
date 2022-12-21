@@ -1,0 +1,36 @@
+ .section-subtitle_theme_dark {
+    color: white;
+    z-index: 2;
+    margin: 0;
+    position: relative;
+  }
+
+  .section-subtitle {
+    text-align: center;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+    margin: 0;
+  }
+
+  .feynman__subtitle {
+    line-height: 51px;
+    font-weight: normal;
+    font-size: 36px;
+    text-align: center;
+    z-index: 2;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header__subtitle {
+    font-size: 18px;
+    width: 388px;
+    line-height: 25px;
+    font-style: normal;
+    position: absolute;
+    bottom: 30px;
+    left: 64px;
+    margin: 0;
+    z-index: 3;
+  }

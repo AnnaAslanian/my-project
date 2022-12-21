@@ -1,0 +1,53 @@
+.section-title_theme_dark {
+    color: white;
+    margin-top: 90px;
+    z-index: 2;
+    position: relative;
+  }
+
+  .section-title {
+    text-align: center;
+    line-height: 1.15;
+    font-size: 60px;
+    font-weight: 600;
+    margin: 90px 0 20px 0;
+  }
+
+  .feynman__title {
+    width: 648px;
+    text-align: center;
+    font-size: 120px;
+    font-weight: 600;
+    line-height: 1.15;
+    z-index: 3;
+    margin: 100px auto 70px auto;
+  }
+  
+  .header__title {
+    margin: 0;
+    padding: 0;
+    max-width: 730px;
+    font-size: 102px;
+    font-weight: 600;
+    line-height: 96px;
+    margin-left: 64px;
+    z-index: 3;
+  }
+
+  
+  .khan__title {
+    line-height: 1.15;
+    font-size: 60px;
+    font-weight: 600;
+    margin: 0 0 50px 0;
+  }
+
+  .cards__title {
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 0 0 16px 0;
+    margin: 0;
+    text-align: center;
+  }
+  
